@@ -26,10 +26,10 @@ npm run lint
 ```
 ### Set local env variables (/.env.local)
 
-VUE_APP_API_KEY='API_KEY'
-VUE_APP_API_SECRET=-'API_SECRET'
-VUE_APP_BITMEX_REST_ENDPOINT='TEST ENDPOINT'
-VUE_APP_BITMEX_WSS_ENDPOINT='SOCKET ENDPOINT'
+VUE_APP_API_KEY='API_KEY'<br/>
+VUE_APP_API_SECRET=-'API_SECRET'<br/>
+VUE_APP_BITMEX_REST_ENDPOINT='TEST ENDPOINT'<br/>
+VUE_APP_BITMEX_WSS_ENDPOINT='SOCKET ENDPOINT'<br/>
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
